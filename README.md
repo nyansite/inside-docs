@@ -3,7 +3,7 @@
 
 ## 目录
 <details>
-  <summary>产品需求</summary>
+  <summary>项目管理</summary>
   
   - [喵站开发流程](./项目管理/喵站开发流程.md)
 </details>
